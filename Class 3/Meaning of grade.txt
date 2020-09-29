@@ -1,0 +1,23 @@
+Write a program that prompts the user to enter grade. 
+Your program should display the corresponding meaning of grade as per the following table
+
+Grade  Meaning
+
+A      Excellent
+
+B      Good
+
+C      Average
+
+D      Deficient
+
+F      Failing
+
+
+
+I/P  - A
+O/P  - Excellent
+
+I/P  - C
+O/P  - Average
+

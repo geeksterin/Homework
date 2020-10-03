@@ -1,0 +1,13 @@
+Write a program to find the factorial value of any number entered by user.
+
+Input : 5
+output : 120
+
+Input : 0
+Output : 1
+
+Input : 1
+Output : 1
+
+Input : 7
+output : 5040 

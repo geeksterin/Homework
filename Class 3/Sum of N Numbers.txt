@@ -1,0 +1,7 @@
+Write a program to calculate the sum of first N natural number.
+
+Input : 10
+Output: 55
+
+Input : 100
+Output : 5050

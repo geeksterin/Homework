@@ -1,0 +1,8 @@
+Write a program that reads a set of integers, and then prints the sum 
+of the even and odd integers respectively.(Print output as shown)
+
+Input : 1 2 3 4 5 6
+Output : 12 9
+
+Input : 70 80 77 89 55 
+Output : 150 221

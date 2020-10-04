@@ -1,0 +1,4 @@
+Write a program to compute sinx for given x. The user should supply x and a positive integer n. 
+We compute the sine of x using the series and the computation should use all terms in the series up through the term involving x^n
+
+sin x = x - x^3/3! + x^5/5! - x^7/7! + x^9/9! .......

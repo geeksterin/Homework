@@ -1,0 +1,4 @@
+Write a program to compute the cosine of x. The user should supply x and a positive integer n. 
+We compute the cosine of x using the series and the computation should use all terms in the series up through the term involving xn
+
+cos x = 1 - x^2/2! + x^4/4! - x^6/6! .....

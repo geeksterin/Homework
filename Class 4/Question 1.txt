@@ -1,0 +1,20 @@
+Write a program to enter the numbers till the user wants and at the end it should display the count of 
+positive, negative and zeros entered. 
+
+I/P - 5 
+      2 -3 0 6 7
+
+O/P
+
+Positive Number  3
+Negative Number  1
+Zero             1
+
+
+I/P   3
+
+      1 0 -1
+
+Positive Number 1
+Negative Number 1
+Zero            1

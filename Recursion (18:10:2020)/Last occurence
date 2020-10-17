@@ -1,0 +1,8 @@
+Given an array of n integers and a number K. Print the Last index of the occurence of element k using recursion.
+
+Sample Input:
+3 5 6 3 3 3 4 1 3 4
+k = 3
+
+Sample Output:
+8

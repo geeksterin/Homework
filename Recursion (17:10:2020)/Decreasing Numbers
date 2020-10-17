@@ -1,0 +1,10 @@
+Given a number n. Print numbers starting from n to 1 in Decreasing order using recursion.
+
+Sample Input:
+5
+Sample Output:
+5
+4
+3
+2
+1

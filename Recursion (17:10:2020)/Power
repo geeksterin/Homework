@@ -1,0 +1,6 @@
+Given two Integers, N and X. Find N^X (power) using recursion.
+
+Sample Input:
+2 4
+Sample Output:
+16

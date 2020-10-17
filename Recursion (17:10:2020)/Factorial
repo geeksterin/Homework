@@ -1,0 +1,6 @@
+Given a number n. Print its factorial using recursion.
+
+Sample Input:
+5
+Sample Output:
+120

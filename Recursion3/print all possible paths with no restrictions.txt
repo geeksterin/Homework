@@ -1,0 +1,14 @@
+Given a matrix of size nXm , print all the possible paths from cell (0,0) to cell (n,m) if any number of with 
+horizontal /vertical/ diagonal movements are allowed. 
+
+Input : 1 2 3
+	4 5 6
+	7 8 9
+output :
+	HDV
+	DVH
+	VVHH
+	HHVV
+	VDH
+	DD
+	

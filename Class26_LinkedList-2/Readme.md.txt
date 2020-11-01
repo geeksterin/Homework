@@ -54,8 +54,8 @@ Input: 1->2->3->4->5 index = 6
 Output : -1
 
 Q.5 Write a function that counts the number of times a given int occurs in a Linked List
-Given a singly linked list and a key, count number of occurrences of given key in linked list. 
-For example, if given linked list is 1->2->1->2->1->3->1 and given key is 1, then output should be 4. 
+ Given a singly linked list and a key, count number of occurrences of given key in linked list. 
+ For example, if given linked list is 1->2->1->2->1->3->1 and given key is 1, then output should be 4. 
 
 Input : 1 -> 2 -> 3 -> 5 -> 5 -> 5 -> 4 -> 5 -> 5 -> 5 key = 5
 Output : 6

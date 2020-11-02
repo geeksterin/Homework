@@ -26,8 +26,25 @@ Q2. Reverse a LinkedList by changing Pointer Iteratively
 
 4. Find Middle Node of a LinkedList without using the size function or member, Also don't calculate size by yourself. 
     https://leetcode.com/problems/middle-of-the-linked-list/
-5. Find Kth Element from Last
+
+
+Q.5 Program to print n’th node from the end of a Linked List
+  Given a Linked List and a number n, write a function that returns the value at the n’th node from the end of 
+  the Linked List.
+  For example
+  Input : A->B->C->D index = 3
+  Output : B
+  Explanation: third index from last is B so print B
+
+  Input : 1->2->3->4->5 index = 2
+  Output : 4
+
+  Input: 1->2->3->4->5 index = 6
+  Output : NULL
 
 ### Additional
-
-> Try more questions on Leetcode or Gfg
+1) https://leetcode.com/problems/add-two-numbers/
+2) https://leetcode.com/problems/intersection-of-two-linked-lists/
+3) https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
+4) https://leetcode.com/problems/reverse-nodes-in-k-group/
+5) https://leetcode.com/problems/insertion-sort-list/

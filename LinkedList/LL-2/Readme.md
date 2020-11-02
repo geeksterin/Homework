@@ -38,21 +38,7 @@ Output : 0
 Input : 1->20->40->0->11 index = 6
 Output : -1
 
-Q.4 Program to print n’th node from the end of a Linked List
-Given a Linked List and a number n, write a function that returns the value at the n’th node from the end of 
-the Linked List.
-For example
-Input : A->B->C->D index = 3
-output : B
-Explanation: third index from last is B so print B
-
-Input : 1->2->3->4->5 index = 2
-Output : 4
-
-Input: 1->2->3->4->5 index = 6
-Output : -1
-
-Q.5 Write a function that counts the number of times a given int occurs in a Linked List
+Q.4 Write a function that counts the number of times a given int occurs in a Linked List
 Given a singly linked list and a key, count number of occurrences of given key in linked list. 
 For example, if given linked list is 1->2->1->2->1->3->1 and given key is 1, then output should be 4. 
 

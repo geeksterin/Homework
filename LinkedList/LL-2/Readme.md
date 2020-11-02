@@ -10,7 +10,6 @@ Input: 1->4->3
 Output: 3
 
 
-
 Q.2 Search an element in a Linked List (Iterative and Recursive) and return its index.
     For example, if the key to be searched is 15 and linked list is 14->21->11->30->10, 
     then function should return -1. If key to be searched is 14, then the function should return 0.

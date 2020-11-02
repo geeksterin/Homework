@@ -1,16 +1,7 @@
 ### Implement the following functions of a LinkedList
 
-1. addFirst
-2. addLast
-3. addAt
-4. removeFirst
-5. removeAt
-6. removeLast
-7. getFirst
-8. getLast
-9. getAt
-10. Reverse a LinkedList by changing Data Iteratively
-11. Reverse a LinkedList by changing Pointer Iteratively
+1. Reverse a LinkedList by changing Data Iteratively
+2. Reverse a LinkedList by changing Pointer Iteratively
 
 ### Daily Practice Problem
 
@@ -20,4 +11,6 @@
 4. Find Middle Node of a LinkedList without using the size function or member, Also don't calculate size by yourself.
 5. Find Kth Element from Last
 
+### Additional
 
+> Try more questions on Leetcode or Gfg

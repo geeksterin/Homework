@@ -1,4 +1,4 @@
-### Implement the following functions of a LinkedList
+### Class Work
 
 1. Reverse a LinkedList by changing Data Iteratively
 2. Reverse a LinkedList by changing Pointer Iteratively

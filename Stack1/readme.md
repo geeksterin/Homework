@@ -14,3 +14,6 @@
 4.	Prefix to Infix Conversion
 5.	Prefix to Postfix Conversion
 6.	Postfix to Prefix Conversion
+
+using Stack inbuilt class
+ 
